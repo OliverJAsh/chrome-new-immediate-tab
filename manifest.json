@@ -1,7 +1,7 @@
 {
     "name": "New immediate tab",
     "description": "Provides a shortcut to open a tab immediately after the active tab, instead of at the end of the tab list.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "background": {
         "scripts": ["background.js"],
         "persistent": false
