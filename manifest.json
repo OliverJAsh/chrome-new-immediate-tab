@@ -1,0 +1,19 @@
+{
+    "name": "New immediate tab",
+    "description": "Provides a shortcut to open a tab immediately after the active tab, instead of at the end of the tab list.",
+    "version": "0.0.1",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "permissions": ["tabs"],
+    "manifest_version": 2,
+    "commands": {
+        "new-immediate-tab": {
+            "description": "new-immediate-tab",
+            "suggested_key": {
+                "mac": "Shift+Alt+I"
+            }
+        }
+    }
+}
