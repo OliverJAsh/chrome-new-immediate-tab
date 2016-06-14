@@ -12,7 +12,7 @@
         "new-immediate-tab": {
             "description": "new-immediate-tab",
             "suggested_key": {
-                "mac": "Shift+Alt+I"
+                "mac": "Command+Ctrl+T"
             }
         }
     }
