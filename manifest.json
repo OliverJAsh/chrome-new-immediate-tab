@@ -6,7 +6,7 @@
         "scripts": ["background.js"],
         "persistent": false
     },
-    "permissions": ["tabs"],
+    "permissions": ["tabs", "storage"],
     "manifest_version": 2,
     "commands": {
         "new-immediate-tab": {
